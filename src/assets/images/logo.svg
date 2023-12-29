@@ -1,0 +1,11 @@
+<svg width="100" height="40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="40" rx="8.88889" fill="white" stroke="url(#paint0_linear_1545_39)" stroke-width="2"/>
+  <text x="40%" y="50%" font-size="20" font-family="Arial, sans-serif" fill="url(#paint0_linear_1545_39)" text-anchor="middle" alignment-baseline="middle">D</text>
+  <text x="60%" y="50%" font-size="20" font-family="Arial, sans-serif" fill="url(#paint0_linear_1545_39)" text-anchor="middle" alignment-baseline="middle">M</text>
+  <defs>
+    <linearGradient id="paint0_linear_1545_39" x1="8" y1="35.5" x2="38.0109" y2="10.5484" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#989FFF"/>
+      <stop offset="1" stop-color="#29A2FF"/>
+    </linearGradient>
+  </defs>
+</svg>
